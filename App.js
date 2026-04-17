@@ -8,7 +8,7 @@ export default function App() {
     </View>
   );
 }
-
+// Comentário: teste de pull request
 const styles = StyleSheet.create({
   container: {
     flex: 1,
